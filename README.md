@@ -43,4 +43,4 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 
 ## Summary: Summarize the overall results of the deep learning model. 
-- Unfortunely, I failed to increase the predictive accuarcy over 75%. we could try other model such as Balanced Random Forest Classifer, and Easy Ensemble Classifier and see if we can get a better result.
+- Unfortunely, the result was failed to increase the predictive accuarcy over 75%. To get this improve, we could try other model such as Balanced Random Forest Classifer, and Easy Ensemble Classifier.
